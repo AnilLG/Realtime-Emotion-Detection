@@ -7,10 +7,10 @@ Download kaggle dataset from here => https://www.kaggle.com/c/challenges-in-repr
 Download haarcascades file from here=> https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 ### Usage:
-First Run Emotion_recognition.py => 
-** python Emotion_Analysis.py</br>
+First Run Emotion_Analysis file
+** python Emotion_Analysis.py**
 
 If model is build test it on realtime motionanalysis file
-** python MotionAnalysis.py
+** python MotionAnalysis.py**
 
 
