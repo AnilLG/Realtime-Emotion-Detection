@@ -8,9 +8,11 @@ Download haarcascades file from here=> https://github.com/opencv/opencv/blob/mas
 
 ### Usage:
 First Run Emotion_Analysis file
-** python Emotion_Analysis.py**
+
+**python Emotion_Analysis.py**
 
 If model is build test it on realtime motionanalysis file
-** python MotionAnalysis.py**
+
+**python MotionAnalysis.py**
 
 
